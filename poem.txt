@@ -5,3 +5,5 @@ far
 secure
 warm
 open
+safe
+free
