@@ -1,9 +1,9 @@
-My house
-big
-sparkling
-far
-secure
-warm
-open
-safe
-free
+#My house
+#big
+#sparkling
+#far
+#secure
+#warm
+#open
+#safe
+#free
